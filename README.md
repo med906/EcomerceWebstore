@@ -2,11 +2,9 @@
 
 ## About The Webstore
 
-it's an interactive webstore that can be scaled and extanded , Developed using laravel , livewire , php and css it has many fully functioning pages: 
+<p align="left">it's an interactive webstore that can be scaled and extanded , Developed using laravel , livewire , php and css it has many fully functioning pages the below is a some of them</p> 
 
-- Front page
-
-## Learning Laravel
+## Front Page
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
