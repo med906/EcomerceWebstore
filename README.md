@@ -1,1 +1,2 @@
-<h1> Ecommerce Wensite </h1> 
+<h1 style="text-aling:center"> Ecommerce Wensite </h1> 
+
