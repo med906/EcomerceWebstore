@@ -2,7 +2,7 @@
 
 ## About The Webstore
 
-<p align="left">it's an interactive webstore that can be scaled and extanded , Developed using laravel , livewire , php and css it has many fully functioning pages the below is a some of them</p> 
+<p align="left">it's an interactive webstore that can be scaled and extanded it has fully functioning frontend and backend for the admin and the user , Developed using laravel , livewire , php and css some pages are showen bellow</p> 
 
 ## Front Page
 
