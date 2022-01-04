@@ -6,7 +6,7 @@
 
 ## Front Page
 
-<img src="https://www.drive.google.com/file/d/16v2LhsljWqXV6U-IGXJbWTWJ3KBlAD9E/view?usp=sharing></img>
+<img src="https://www.drive.google.com/file/d/16v2LhsljWqXV6U-IGXJbWTWJ3KBlAD9E/view?usp=sharing"></img>
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
