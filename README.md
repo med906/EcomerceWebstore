@@ -7,7 +7,7 @@
 ## Front Page
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/hometop.png"></img></p>
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/homeMiddle.png"></img></p>
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/homeBottom.png"></img></p>
+<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/homebottom.png"></img></p>
 
 
 
