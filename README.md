@@ -14,7 +14,7 @@
     <li>cancel an order</li>
 </ul>
 
-<p style="bold">Admin</p>
+<p >Admin:</p>
 <ul>
     <li>create account</li>
     <li>login and out </li>
