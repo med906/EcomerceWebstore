@@ -12,8 +12,7 @@
 
 ## Shop Page
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/ShopTop.png"></img></p>
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/shopMid.png"></img></p>
-<p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/shopB.png"></img></p>
+
 
 
 
