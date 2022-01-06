@@ -4,23 +4,27 @@
 
 <p align="left">it's an interactive webstore that can be scaled and extanded it has fully functioning frontend and backend for the admin and the user , Developed using laravel , livewire ,Functions available: </p>
 
--User
-create account 
-login and out 
-change profile informations
-view products and add/remove them from shopping cart
-make an order
-cancel an order
+<p>User:</p>
+<ul>
+    <li>create account</li>
+    <li>login and out </li>
+    <li>change profile informations</li>
+    <li>view products and add/remove them from shopping cart</li>
+    <li>make an order</li>
+    <li>cancel an order</li>
+</ul>
 
--admin 
-create account 
-login and out 
-change profile informations
-view products ,add,modify and remove them form database
-view slides ,add,modify,remove them form database
-view categories ,add,modify,remove them form database
-manage orders
-manage users
+<p style="bold">Admin</p>
+<ul>
+    <li>create account</li>
+    <li>login and out </li>
+    <li>change profile informations</li>
+    <li>view products ,add,modify and remove them form database</li>
+    <li>view slides ,add,modify,remove them form database</li>
+    <li>view categories ,add,modify,remove them form database</li>
+    <li>manage orders</li>
+    <limanage users</li>
+</ul>
 
 
 ## Front Page
