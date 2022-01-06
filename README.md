@@ -26,6 +26,7 @@
     <limanage users</li>
 </ul>
 
+Some pages:
 
 ## Front Page
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/hometop.png"></img></p>
@@ -44,6 +45,14 @@
 ## View Products Page
 <p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/ViewProducts.png"></img></p>
 
+
+
+## Add Product Page
+<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/AddProduct.png"></img></p>
+
+
+## Edit Product Page
+<p align="center" ><img src="https://github.com/med906/EcomerceWebstore/blob/master/Github%20Images/EditProduct.png"></img></p>
 
 
 
