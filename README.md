@@ -2,7 +2,26 @@
 
 ## About The Webstore
 
-<p align="left">it's an interactive webstore that can be scaled and extanded it has fully functioning frontend and backend for the admin and the user , Developed using laravel , livewire , php and css some pages are showen below</p> 
+<p align="left">it's an interactive webstore that can be scaled and extanded it has fully functioning frontend and backend for the admin and the user , Developed using laravel , livewire ,Functions available: </p>
+
+-User
+create account 
+login and out 
+change profile informations
+view products and add/remove them from shopping cart
+make an order
+cancel an order
+
+-admin 
+create account 
+login and out 
+change profile informations
+view products ,add,modify and remove them form database
+view slides ,add,modify,remove them form database
+view categories ,add,modify,remove them form database
+manage orders
+manage users
+
 
 ## Front Page
 <p align="center" ><img src="https://raw.githubusercontent.com/med906/EcomerceWebstore/master/Github%20Images/hometop.png"></img></p>
